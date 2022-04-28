@@ -967,6 +967,11 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
+"@modules/privacy-policy@file:./modules/privacy-policy":
+  version "1.0.1"
+  dependencies:
+    react-native-render-html "^5.1.0"
+
 "@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
